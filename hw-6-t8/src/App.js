@@ -41,5 +41,8 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     elevation: 2,
     position: 'relative'
+  },
+  textStyle: {
+    justifyContent: 'center'
   }
 })
