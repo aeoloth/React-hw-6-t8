@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+viewStyle {
+  background-color: '#30d0fe';
+  height: 116;
+  justify-content: 'center';
+  padding-left: 22;
+  padding-top: 71;
+  box-shadow: 0 2 0.2 #000;
+  position: 'relative'
+}
+
+textStyle {
+  justify-content: 'center'
+}
